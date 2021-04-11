@@ -2,6 +2,6 @@
 authors: "Lucia Marsicano, Mimma Di Ninno"
 ---
 
-# theatres
+# Entertainment Buildings in the roman era
 
 Archive for Geocontext.info
