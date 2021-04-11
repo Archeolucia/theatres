@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "stadiums_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Stadium of Domitian", "City": "Rome", "Country": "Italy", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 12.47307603831016, 41.89887911058437 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Antoninus Pius", "City": "Pozzuoli", "Country": "Italy", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 14.11234760302188, 40.83280953951497 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Nicopolis", "City": "Preveza", "Country": "Greece", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 20.73496450386671, 39.02357913762017 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Rhodes", "City": "Rhodes", "Country": "Greece", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 28.21198353920008, 36.43917091917005 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Aphrodisias", "City": "Aphrodisias", "Country": "Turkey", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 28.72173881134406, 37.71264861166453 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Laodicea", "City": "Denizli", "Country": "Turkey", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 29.10418141086323, 37.83146553724923 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Nemea", "City": "Neme", "Country": "Greece", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 22.71020932543498, 37.80901423988782 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Athens", "City": "Athens", "Country": "Greece", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 23.74112113588182, 37.96819573018544 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadyum of Olympia", "City": "Olympia", "Country": "Greece", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 21.63282218361184, 37.63918175763387 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Priene", "City": "Priene", "Country": "Turkey", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 27.29895329476353, 37.65989809335925 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium of Olympia", "City": "Olympia", "Country": "Greece", "Located": "yes", "Visible": "yes" }, "geometry": { "type": "Point", "coordinates": [ 22.49799596327116, 38.48264914487387 ] } }
+]
+}

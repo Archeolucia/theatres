@@ -1,0 +1,9 @@
+{
+  "info": {
+    "target": "info",
+    "title": "Info",
+    "icon": "info",
+    "mode": "file",
+    "content": "chcx-static-pages/file.html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Circuses, Theatres and Amphitheatres: Where, When and Why",
+  "type": "2d",
+
+  "center": [44.292, 13.975],
+  "minzoom": 1,
+  "startzoom": 5,
+  "maxzoom": 20,
+
+  "datasources": [
+    {"name": "amphitheatres", "type": "geojson+http+remote", "conf": { "source": "datasets/amphitheatres.geojson"}},
+    {"name": "circuses", "type": "geojson+http+remote", "conf": { "source": "datasets/circuses.geojson"}},
+    {"name": "stadiums", "type": "geojson+http+remote", "conf": { "source": "datasets/stadiums.geojson"}},
+    {"name": "theatres", "type": "geojson+http+remote", "conf": { "source": "datasets/theatres.geojson"}}
+  ],
+  "layers": [
+    {"name": "amphitheatres", "type": "features", "datasource": "amphitheatres", "style": { "style": "mapbox", "mode": "marker", "markerType": "circle", "options": { "radius": 4, "fillColor": "#8cdf8a", "color": "#000", "weight": 1, "opacity": 1, "fillOpacity": 0.6 } } },
+    {"name": "circuses",      "type": "features", "datasource": "circuses",      "style": { "style": "mapbox", "mode": "marker", "markerType": "circle", "options": { "radius": 4, "fillColor": "#ea583e", "color": "#000", "weight": 1, "opacity": 1, "fillOpacity": 0.6 } } },
+    {"name": "stadiums",      "type": "features", "datasource": "stadiums",      "style": { "style": "mapbox", "mode": "marker", "markerType": "circle", "options": { "radius": 4, "fillColor": "#febccd", "color": "#000", "weight": 1, "opacity": 1, "fillOpacity": 0.6 } } },
+    {"name": "theatres",      "type": "features", "datasource": "theatres",      "style": { "style": "mapbox", "mode": "marker", "markerType": "circle", "options": { "radius": 4, "fillColor": "#9448b7", "color": "#000", "weight": 1, "opacity": 1, "fillOpacity": 0.6 } } }
+  ]
+}
+

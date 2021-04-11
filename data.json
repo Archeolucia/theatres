@@ -1,0 +1,10 @@
+{
+  "type":"3d",
+
+  "datasources":[
+    "osm"
+  ],
+  "layers":[
+    "osm"
+  ]
+}
