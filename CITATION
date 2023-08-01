@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite as below."
+authors:
+- family-names: "Marsicano"
+  given-names: "Lucia"
+- family-names: "Di Ninno"
+  given-names: "Mimma"
+  orcid: "https://orcid.org/0009-0007-0621-771X"
+title: "Entertainment structures in ancient rome"
+version: 1.0
+date-released: 2021-04-11
+url: "https://github.com/Archeolucia/theatres"
