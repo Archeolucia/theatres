@@ -1,7 +1,7 @@
 ---
-authors: "Lucia Marsicano, Mimma Di Ninno"
+authors: "Lucia Marsicano"
 ---
 
 # Entertainment Buildings in the roman era
 
-Archive for Geocontext.info
+Archive of the datasets
